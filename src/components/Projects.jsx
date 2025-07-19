@@ -6,21 +6,7 @@ const projects = [
     description: "Web tool tracing government allocations and tax usage for African countries.",
     tags: ["React", "Node.js", "MongoDB"]
   },
-  {
-    title: "Portfolio Website",
-    description: "A vibrant, responsive developer portfolio with GitHub integration.",
-    tags: ["React", "Tailwind CSS", "Figma"]
-  },
-  {
-    title: "Community App",
-    description: "Mobile application connecting local communities with resources.",
-    tags: ["Flutter", "Firebase"]
-  },
-  {
-    title: "E-commerce Platform",
-    description: "Full-featured online store with payment integration.",
-    tags: ["React", "Python", "PostgreSQL"]
-  }
+  
 ];
 
 const Projects = () => {
